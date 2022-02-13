@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\Modul 4 Final.dll"</Assembly>
+		<AddInId>FF3DD46A-02AD-4C75-A4EE-D943454C8896</AddInId>
+		<FullClassName>Modul 4 Final.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Modul 4 Final</Text>
+	</AddIn>
+</RevitAddIns>
